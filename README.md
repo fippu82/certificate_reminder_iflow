@@ -13,4 +13,4 @@ The email body can be changed in the email channel. The subject is configurable.
 To access the key store, you need to create a service key (or reuse an existing one) with plan "api" and an appropriate role to read the Key Store, e.g. AuthGroup_IntegrationDeveloper. Save it as OAuth credential in Security Materials, e.g. with name BTP_API_OAUTH. 
 Configure a daily recurring (or more often) execution time in the timer configuration and deploy the Iflow. Done.
 
-Download the zip by clicking on the release on the right side.
+Download the file "Certificate_Expiration_Reminder.zip" by clicking on the release on the right side.
